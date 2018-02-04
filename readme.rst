@@ -2,8 +2,8 @@
 Blog
 ###################
 
-This is a simple blog application built on CodeIgniter 3.x. It is a very tiny ci application.<br><br>
-Demo url <a href="http://103.35.171.118/blog/">http://103.35.171.118/blog/</a>
+This is a simple blog application built on CodeIgniter 3.x. It is a very tiny ci application.
+Demo url http://103.35.171.118/blog/
 
 *******************
 Usage
